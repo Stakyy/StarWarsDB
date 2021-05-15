@@ -2,6 +2,7 @@
   display: flex;
   padding: 1rem;
   background-color: #303030;
+  margin-bottom: 2rem;
 }
 
 .random-planet .planet-image {
